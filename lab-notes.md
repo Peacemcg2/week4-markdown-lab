@@ -12,3 +12,4 @@
 [Visit GitHub](https://hithub.com)
 ## Partner's Contribution
 -Added my name and a new bullet point
+Peace McGrey
